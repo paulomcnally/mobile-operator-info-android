@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mobile Operator Info</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2015513932539714/9097749426</string>
+    <string name="countryISO">Country ISO:</string>
+    <string name="mccmnc">MCCMNC:</string>
+    <string name="mcc">MCC:</string>
+    <string name="mnc">MNC:</string>
+    <string name="name">Name:</string>
+</resources>
